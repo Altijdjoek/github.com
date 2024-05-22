@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Mijn Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welkom op mijn website!</h1>
+        <p>Leer meer over mij en verschillende interessante technologieën.</p>
+    </header>
+    <section>
+        <h2>Over Mij</h2>
+        <img src="mijn-foto.jpg" alt="Foto van mij">
+        <p>Hallo, ik ben [Jouw Naam]. Ik ben een [beschrijf jezelf, bijvoorbeeld student, professional, etc.]. Mijn hobbies zijn [hobbies] en ik geniet van [korte beschrijving waarom].</p>
+    </section>
+    <section>
+        <h2>Website Tour</h2>
+        <p>Bekijk deze video voor een rondleiding door mijn website:</p>
+        <iframe src="https://www.youtube.com/embed/uwi4ltpu1tc" title="Uitlegvideo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+
+    <header>
+        <h1>Hoe werkt een computer?</h1>
+    </header>
+    <section>
+        <h2>Invoer</h2>
+        <p>Invoerapparaten zoals toetsenborden en muizen helpen gebruikers gegevens in te voeren in de computer.</p>
+        <img src="invoer-apparaten.jpg" alt="Invoerapparaten">
+    </section>
+    <section>
+        <h2>Verwerking</h2>
+        <p>De CPU (Central Processing Unit) verwerkt de ingevoerde gegevens door middel van berekeningen en logische operaties.</p>
+        <img src="cpu.jpg" alt="CPU">
+    </section>
+    <section>
+        <h2>Uitvoer</h2>
+        <p>Uitvoerapparaten zoals monitors en printers laten de resultaten van de verwerkte gegevens zien.</p>
+        <img src="uitvoer-apparaten.jpg" alt="Uitvoerapparaten">
+    </section>
+    <section>
+        <h2>Opslag</h2>
+        <p>Gegevens worden opgeslagen op apparaten zoals harde schijven en SSD's voor later gebruik.</p>
+        <img src="opslag-apparaten.jpg" alt="Opslagapparaten">
+    </section>
+
+    <header>
+        <h1>Het Binair Stelsel</h1>
+    </header>
+    <section>
+        <h2>Wat is het Binair Stelsel?</h2>
+        <p>Het binaire stelsel is een talstelsel dat gebruik maakt van twee cijfers: 0 en 1.</p>
+        <img src="binair-stelsel.jpg" alt="Binair Stelsel">
+    </section>
+    <section>
+        <h2>Voorbeelden</h2>
+        <p>Het binaire getal 1010 staat gelijk aan het decimale getal 10.</p>
+    </section>
+    <section>
+        <h2>Meer Leren</h2>
+        <p>Bezoek <a href="https://example.com/binary-bonanza" target="_blank">Binary Bonanza</a> voor meer informatie.</p>
+    </section>
+
+    <header>
+        <h1>Kleurmodellen</h1>
+    </header>
+    <section>
+        <h2>RGB Model</h2>
+        <p>Het RGB kleurmodel gebruikt de kleuren rood, groen en blauw om een breed scala aan kleuren te creëren door ze te combineren.</p>
+        <img src="rgb-kleurmodel.jpg" alt="RGB Kleurmodel">
+    </section>
+    <section>
+        <h2>CMY-K Model</h2>
+        <p>Het CMY-K kleurmodel wordt vaak gebruikt in drukwerk en bestaat uit cyaan, magenta, geel en zwart.</p>
+        <img src="cmyk-kleurmodel.jpg" alt="CMY-K Kleurmodel">
+    </section>
+    <section>
+        <h2>Pixels en Resolutie</h2>
+        <p>Pixels zijn de kleinste eenheden van een digitale afbeelding en resolutie verwijst naar het aantal pixels per inch (PPI).</p>
+        <img src="pixels-resolutie.jpg" alt="Pixels en Resolutie">
+    </section>
+
+    <header>
+        <h1>Compressietechnieken</h1>
+    </header>
+    <section>
+        <h2>Opslag van Beeld en Geluid</h2>
+        <p>Beelden worden opgeslagen als bitmap of vectorafbeeldingen, en geluid als digitale samples.</p>
+        <img src="beeld-en-geluid.jpg" alt="Opslag van Beeld en Geluid">
+    </section>
+    <section>
+        <h2>Bitmap vs. Vector</h2>
+        <p>Bitmap afbeeldingen bestaan uit pixels, terwijl vectorafbeeldingen uit paden bestaan die schaalbaar zijn zonder kwaliteitsverlies.</p>
+        <img src="bitmap-vs-vector.jpg" alt="Bitmap vs. Vector">
+    </section>
+    <section>
+        <h2>Sampling en Sample Rate</h2>
+        <p>Sampling verwijst naar het opnemen van geluid op regelmatige tijdsintervallen en sample rate is het aantal samples per seconde.</p>
+        <img src="sampling.jpg" alt="Sampling en Sample Rate">
+    </section>
+    <section>
+        <h2>Tekstcompressie</h2>
+        <p>Tekstcompressie methoden zoals Huffman-codering verminderen de grootte van tekstbestanden.</p>
+    </section>
+</body>
+</html>
