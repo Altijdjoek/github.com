@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welkom op mijn persoonlijke website!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .hobbies {
+            list-style: none;
+            padding: 0;
+        }
+        .hobbies li {
+            background: #fff;
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 4px solid #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welkom op mijn persoonlijke website!</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Over Mij</h2>
+            <p>Hallo! Mijn naam is Joek Vlastuin, en ik ben verheugd dat je mijn website bezoekt. Hier kun je meer te weten komen over wie ik ben, mijn passies, en mijn dagelijkse leven. Ik geloof dat het delen van persoonlijke ervaringen en interesses helpt om een connectie te maken met anderen, en ik hoop dat je iets interessants vindt tijdens je bezoek.</p>
+        </section>
+        <section>
+            <h2>Mijn Passies</h2>
+            <ul class="hobbies">
+                <li>
+                    <h3>Voetbal</h3>
+                    <p>Voetbal is niet alleen een sport voor mij; het is een manier van leven. Ik ben opgegroeid met een bal aan mijn voeten en het veld is mijn tweede thuis. Of ik nu met vrienden speel of naar een spannende wedstrijd kijk, voetbal brengt me altijd vreugde en energie. Ik ben een grote fan van [je favoriete voetbalteam] en probeer zo vaak mogelijk wedstrijden bij te wonen.</p>
+                </li>
+                <li>
+                    <h3>Golven</h3>
+                    <p>Naast voetbal, vind ik ook rust en uitdaging op de golfbaan. Golven biedt een perfecte balans tussen fysieke activiteit en mentale focus. Elke ronde is een nieuwe kans om mezelf te verbeteren en te genieten van de prachtige natuur om me heen. Of ik nu alleen speel of met vrienden, het spel blijft me fascineren.</p>
+                </li>
+                <li>
+                    <h3>Gamen met Vrienden</h3>
+                    <p>In mijn vrije tijd ontspan ik graag door te gamen met vrienden. Het is niet alleen een manier om te ontsnappen aan de dagelijkse stress, maar ook een geweldige manier om contact te houden met vrienden, vooral als we niet bij elkaar in de buurt wonen. Van strategische spellen tot snelle actie-avonturen, ik geniet van de diversiteit en het samen werken aan doelen in de virtuele wereld.</p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Laten We Verbinden</h2>
+            <p>Ik ben altijd op zoek naar nieuwe connecties en interessante gesprekken. Aarzel niet om contact met mij op te nemen via mijn sociale media kanalen of stuur me een bericht via het contactformulier op deze site. Ik kijk ernaar uit om van je te horen en misschien kunnen we onze passies delen!</p>
+        </section>
+    </div>
+</body>
+</html>
